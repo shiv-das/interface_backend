@@ -1,0 +1,24 @@
+{
+  "name": "interface_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiv-das/interface_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiv-das/interface_backend/issues"
+  },
+  "homepage": "https://github.com/shiv-das/interface_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
